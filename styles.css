@@ -1,0 +1,96 @@
+
+h3
+{
+  padding-top: 1rem;
+  text-align: center;
+}
+.lit
+{
+  font-weight: 200;
+}
+.lit1
+{
+  font-weight: 600;
+}
+.para
+{
+  color: grey;
+  text-align: center;
+  margin: 0 25rem;
+  padding: 2rem 0;
+}
+.section1
+{
+  margin: 0 24rem;
+  padding:1rem 0;
+}
+.container
+{
+  position:relative;
+}
+.horizontal1
+{
+  position: absolute;
+  bottom: 18rem;
+  left: 5rem;
+
+}
+.horizontal2
+{
+  position: absolute;
+  bottom: 18rem;
+  left: 28rem;
+}
+.body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+.team
+{
+  background-color:hsl(0, 78%, 62%);
+  height:5px;
+}
+.super
+{
+  background-color: hsl(180, 62%, 55%);
+  height:5px;
+}
+.karma
+{
+  background-color: hsl(34, 97%, 64%);
+  height:5px;
+}
+
+.calc
+{
+  background-color: hsl(212, 86%, 64%);
+  height:5px;
+}
+.img1
+{
+  position: absolute;
+  left: 13rem;
+}
+.attribution
+{
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a
+{
+  color: hsl(228, 45%, 44%);
+}
+.card
+{
+  width:18.75rem;
+  height:11rem;
+}
+.card-text
+{
+  color: grey;
+  font-size: 12px;
+}
+@media(max-width:375px)
+{
+
+}
